@@ -42,6 +42,7 @@ function Portfolio() {
     {
       title: "React Portfolio",
       image: project6,
+      deployedLink: "https://jaden-szewczak-portfolio.netlify.app",
       githubLink: "https://github.com/jadenszewczak/react-portfolio",
     },
   ];
