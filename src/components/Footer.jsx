@@ -5,21 +5,21 @@ function Footer() {
     <footer className="footer">
       <div className="social-links">
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/jadenszewczak"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaGithub />
         </a>
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/jaden-szewczak-713b20331"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaLinkedin />
         </a>
         <a
-          href="https://stackoverflow.com/users/yourid"
+          href="https://stackoverflow.com/users/30633292/jaden-szewczak?tab=topactivity"
           target="_blank"
           rel="noopener noreferrer"
         >

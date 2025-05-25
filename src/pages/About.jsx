@@ -1,16 +1,10 @@
-// Remove the import line at the top
-// import avatarImage from "../assets/images/avatar.jpg";
-
+import avatarImage from "../assets/images/avatar.jpeg";
 function About() {
   return (
     <section className="about">
       <h2>About Me</h2>
       <div className="about-content">
-        <img
-          src="https://via.placeholder.com/200"
-          alt="Your Name"
-          className="avatar"
-        />
+        <img src={avatarImage} alt="Jaden Szewczak" className="avatar" />
         <div className="bio">
           <p>
             Hello! I'm a full-stack web developer with a passion for creating
@@ -19,9 +13,11 @@ function About() {
             technologies.
           </p>
           <p>
-            My journey in web development started with [your background]. I
-            enjoy solving complex problems and turning ideas into reality
-            through code.
+            My journey in web development started with a background in warehouse
+            management systems and logistics analytics, where I built automation
+            tools and data-driven workflows using Excel VBA and SQL. That
+            hands-on experience with real-world operations inspired me to pursue
+            software development more deeply.
           </p>
         </div>
       </div>
