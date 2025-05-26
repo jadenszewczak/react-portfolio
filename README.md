@@ -50,7 +50,7 @@ Visit `http://localhost:5173` to view the application.
 
 ## Screenshots
 
-![Portfolio Screenshot](src\assets\images\screenshot.png)
+![Portfolio Screenshot](./src/assets/images/screenshot.png)
 
 ## Deployment
 
